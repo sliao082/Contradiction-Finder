@@ -1,0 +1,2 @@
+"""Conflict card generation."""
+
